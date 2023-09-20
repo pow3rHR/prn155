@@ -1,4 +1,4 @@
-class Forma {
+/*class Forma {
     public void dibujar() {
         Console.WriteLine("Dibujando forma...");
     }
@@ -12,4 +12,4 @@ class Cuadrado : Forma {
     public void dibujar() {
         Console.WriteLine("Dibujando cuadrado...");
     }
-}
+}*/
