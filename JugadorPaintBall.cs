@@ -1,9 +1,13 @@
-using System.Collections.ObjectModel;
-
+//using System.Collections.ObjectModel;
+namespace prn155;
 class JugadorPaintBall : Humano {
-    private bool activo;
-    private int balas;
+    public bool activo = true;
+    private int balas = 50;
     private int evasividad = 0;
+
+    public JugadorPaintBall(string nombre) {
+        this.nombre = nombre;
+    }
     public override void correr() {
         this.velocidad += 5;
         
@@ -32,6 +36,7 @@ class JugadorPaintBall : Humano {
                     Console.WriteLine($"El jugador {jugador.nombre} lo ha esquivado!");
                 }
                 else {
+                    Console.WriteLine($"El jugador {jugador.nombre} ha recibido un disparo!");
                     jugador.activo = false;
                 }
             }
@@ -42,6 +47,7 @@ class JugadorPaintBall : Humano {
                     Console.WriteLine($"El jugador {jugador.nombre} lo ha esquivado!");
                 }
                 else {
+                    Console.WriteLine($"El jugador {jugador.nombre} ha recibido un disparo!");
                     jugador.activo = false;
                 }
             }
@@ -52,6 +58,7 @@ class JugadorPaintBall : Humano {
                     Console.WriteLine($"El jugador {jugador.nombre} lo ha esquivado!");
                 }
                 else {
+                    Console.WriteLine($"El jugador {jugador.nombre} ha recibido un disparo!");
                     jugador.activo = false;
                 }
             }
