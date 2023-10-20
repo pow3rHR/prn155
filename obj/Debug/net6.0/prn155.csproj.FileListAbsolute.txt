@@ -1,0 +1,15 @@
+/home/diego/prn155/obj/Debug/net6.0/prn155.csproj.AssemblyReference.cache
+/home/diego/prn155/obj/Debug/net6.0/prn155.GeneratedMSBuildEditorConfig.editorconfig
+/home/diego/prn155/obj/Debug/net6.0/prn155.AssemblyInfoInputs.cache
+/home/diego/prn155/obj/Debug/net6.0/prn155.AssemblyInfo.cs
+/home/diego/prn155/obj/Debug/net6.0/prn155.csproj.CoreCompileInputs.cache
+/home/diego/prn155/bin/Debug/net6.0/prn155
+/home/diego/prn155/bin/Debug/net6.0/prn155.deps.json
+/home/diego/prn155/bin/Debug/net6.0/prn155.runtimeconfig.json
+/home/diego/prn155/bin/Debug/net6.0/prn155.dll
+/home/diego/prn155/bin/Debug/net6.0/prn155.pdb
+/home/diego/prn155/obj/Debug/net6.0/prn155.dll
+/home/diego/prn155/obj/Debug/net6.0/refint/prn155.dll
+/home/diego/prn155/obj/Debug/net6.0/prn155.pdb
+/home/diego/prn155/obj/Debug/net6.0/prn155.genruntimeconfig.cache
+/home/diego/prn155/obj/Debug/net6.0/ref/prn155.dll
